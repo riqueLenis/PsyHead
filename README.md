@@ -64,7 +64,7 @@ Este projeto é acadêmico, mas sugestões, ideias e feedbacks são bem-vindos!
 
 **Henrique Lenis Martins**  
 Técnico em TI | Desenvolvedor Android | Entusiasta de UX para saúde mental  
-📧 henriquelenismartins@gmail.com  
+📧 henriquelenis12@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/henrique-lenis-5259a2230/)
 
 ---
